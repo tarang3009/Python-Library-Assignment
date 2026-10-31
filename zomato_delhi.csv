@@ -1,0 +1,201 @@
+restaurant_id,name,city,cuisine,average_cost_for_two,user_rating,votes,has_online_delivery
+1,Delhi Eatery 1,Delhi,North Indian,427,4.6,1644,Yes
+2,Delhi Eatery 2,Delhi,Biryani,571,4.0,4971,Yes
+3,Delhi Eatery 3,Delhi,North Indian,285,3.9,2119,Yes
+4,Delhi Eatery 4,Delhi,Fast Food,624,4.3,2323,Yes
+5,Delhi Eatery 5,Delhi,South Indian,374,4.4,4261,Yes
+6,Delhi Eatery 6,Delhi,South Indian,182,4.5,2264,No
+7,Delhi Eatery 7,Delhi,North Indian,502,4.1,3413,No
+8,Delhi Eatery 8,Delhi,Chinese,482,3.8,1775,No
+9,Delhi Eatery 9,Delhi,Fast Food,653,3.8,3407,Yes
+10,Delhi Eatery 10,Delhi,North Indian,453,4.2,2992,Yes
+11,Delhi Eatery 11,Delhi,Street Food,590,4.2,4920,Yes
+12,Delhi Eatery 12,Delhi,Cafe,281,4.6,2004,Yes
+13,Delhi Eatery 13,Delhi,Street Food,238,4.2,1104,Yes
+14,Delhi Eatery 14,Delhi,Cafe,503,4.4,714,Yes
+15,Delhi Eatery 15,Delhi,Fast Food,412,4.6,2549,No
+16,Delhi Eatery 16,Delhi,Street Food,585,4.1,2513,Yes
+17,Delhi Eatery 17,Delhi,North Indian,420,3.4,480,Yes
+18,Delhi Eatery 18,Delhi,Fast Food,587,3.5,77,Yes
+19,Delhi Eatery 19,Delhi,Chinese,694,3.4,1976,Yes
+20,Delhi Eatery 20,Delhi,Chinese,682,4.6,195,Yes
+21,Delhi Eatery 21,Delhi,Biryani,197,3.7,4752,No
+22,Delhi Eatery 22,Delhi,Cafe,683,4.5,3955,Yes
+23,Delhi Eatery 23,Delhi,North Indian,430,4.2,447,Yes
+24,Delhi Eatery 24,Delhi,Biryani,355,4.7,3897,Yes
+25,Delhi Eatery 25,Delhi,Fast Food,652,4.4,3793,Yes
+26,Delhi Eatery 26,Delhi,Fast Food,242,4.0,3632,No
+27,Delhi Eatery 27,Delhi,North Indian,369,3.9,4329,No
+28,Delhi Eatery 28,Delhi,Biryani,608,4.0,3539,Yes
+29,Delhi Eatery 29,Delhi,Biryani,293,4.1,2554,Yes
+30,Delhi Eatery 30,Delhi,Cafe,664,3.8,3631,Yes
+31,Delhi Eatery 31,Delhi,Chinese,455,4.0,3992,No
+32,Delhi Eatery 32,Delhi,Fast Food,431,4.6,2925,No
+33,Delhi Eatery 33,Delhi,South Indian,326,3.3,2216,Yes
+34,Delhi Eatery 34,Delhi,South Indian,219,4.1,2873,Yes
+35,Delhi Eatery 35,Delhi,Fast Food,659,3.6,1779,Yes
+36,Delhi Eatery 36,Delhi,Street Food,152,4.1,2035,Yes
+37,Delhi Eatery 37,Delhi,Street Food,196,4.3,2538,No
+38,Delhi Eatery 38,Delhi,Chinese,191,4.0,3750,Yes
+39,Delhi Eatery 39,Delhi,Biryani,263,4.3,989,Yes
+40,Delhi Eatery 40,Delhi,South Indian,553,3.4,2172,Yes
+41,Delhi Eatery 41,Delhi,Street Food,196,4.4,1551,Yes
+42,Delhi Eatery 42,Delhi,Cafe,231,3.8,790,No
+43,Delhi Eatery 43,Delhi,Italian,541,4.2,1540,Yes
+44,Delhi Eatery 44,Delhi,Cafe,168,4.1,1522,No
+45,Delhi Eatery 45,Delhi,North Indian,311,3.0,4942,Yes
+46,Delhi Eatery 46,Delhi,Italian,605,3.7,1949,Yes
+47,Delhi Eatery 47,Delhi,Street Food,645,4.1,1689,No
+48,Delhi Eatery 48,Delhi,Cafe,422,4.6,1988,Yes
+49,Delhi Eatery 49,Delhi,Biryani,641,4.1,1159,Yes
+50,Delhi Eatery 50,Delhi,South Indian,638,4.1,4566,Yes
+51,Delhi Eatery 51,Delhi,North Indian,665,3.4,4700,Yes
+52,Delhi Eatery 52,Delhi,South Indian,286,4.6,1974,Yes
+53,Delhi Eatery 53,Delhi,Cafe,290,4.7,710,Yes
+54,Delhi Eatery 54,Delhi,North Indian,512,4.0,114,Yes
+55,Delhi Eatery 55,Delhi,Chinese,150,3.9,4829,No
+56,Delhi Eatery 56,Delhi,South Indian,295,3.4,4159,Yes
+57,Delhi Eatery 57,Delhi,South Indian,363,4.4,4269,No
+58,Delhi Eatery 58,Delhi,South Indian,639,5.0,2937,Yes
+59,Delhi Eatery 59,Delhi,Fast Food,679,4.3,3242,Yes
+60,Delhi Eatery 60,Delhi,Fast Food,338,4.5,3842,Yes
+61,Delhi Eatery 61,Delhi,Fast Food,570,4.2,2150,Yes
+62,Delhi Eatery 62,Delhi,South Indian,449,3.6,4133,Yes
+63,Delhi Eatery 63,Delhi,Biryani,182,4.5,1002,Yes
+64,Delhi Eatery 64,Delhi,South Indian,368,3.5,2235,Yes
+65,Delhi Eatery 65,Delhi,Street Food,536,3.9,548,Yes
+66,Delhi Eatery 66,Delhi,Street Food,538,4.1,3877,Yes
+67,Delhi Eatery 67,Delhi,South Indian,654,4.4,536,No
+68,Delhi Eatery 68,Delhi,Street Food,495,4.2,2523,Yes
+69,Delhi Eatery 69,Delhi,Street Food,682,4.2,1758,Yes
+70,Delhi Eatery 70,Delhi,South Indian,398,3.7,4971,No
+71,Delhi Eatery 71,Delhi,South Indian,543,3.5,2047,Yes
+72,Delhi Eatery 72,Delhi,Fast Food,490,4.0,724,Yes
+73,Delhi Eatery 73,Delhi,South Indian,624,3.7,4620,Yes
+74,Delhi Eatery 74,Delhi,Cafe,661,3.5,2768,Yes
+75,Delhi Eatery 75,Delhi,Italian,612,3.5,2690,Yes
+76,Delhi Eatery 76,Delhi,North Indian,675,3.8,3176,No
+77,Delhi Eatery 77,Delhi,South Indian,347,3.3,4953,No
+78,Delhi Eatery 78,Delhi,Biryani,696,3.5,148,Yes
+79,Delhi Eatery 79,Delhi,Italian,204,3.3,3610,Yes
+80,Delhi Eatery 80,Delhi,Italian,352,4.1,2284,No
+81,Delhi Eatery 81,Delhi,Chinese,550,4.2,748,Yes
+82,Delhi Eatery 82,Delhi,Biryani,490,4.8,4534,Yes
+83,Delhi Eatery 83,Delhi,Chinese,225,3.4,2776,No
+84,Delhi Eatery 84,Delhi,South Indian,524,3.7,4571,No
+85,Delhi Eatery 85,Delhi,South Indian,361,4.4,813,No
+86,Delhi Eatery 86,Delhi,Fast Food,587,3.9,3383,Yes
+87,Delhi Eatery 87,Delhi,Italian,697,3.9,215,No
+88,Delhi Eatery 88,Delhi,Cafe,261,4.7,4925,Yes
+89,Delhi Eatery 89,Delhi,Cafe,457,3.9,4720,Yes
+90,Delhi Eatery 90,Delhi,South Indian,165,3.5,4422,Yes
+91,Delhi Eatery 91,Delhi,Cafe,436,3.5,1702,Yes
+92,Delhi Eatery 92,Delhi,North Indian,613,4.1,3492,No
+93,Delhi Eatery 93,Delhi,Italian,671,4.1,964,No
+94,Delhi Eatery 94,Delhi,Biryani,585,3.5,4205,Yes
+95,Delhi Eatery 95,Delhi,Fast Food,306,3.6,526,Yes
+96,Delhi Eatery 96,Delhi,Chinese,356,4.2,3679,Yes
+97,Delhi Eatery 97,Delhi,Biryani,699,4.2,3267,Yes
+98,Delhi Eatery 98,Delhi,Biryani,585,3.7,1486,No
+99,Delhi Eatery 99,Delhi,Italian,651,4.2,2316,No
+100,Delhi Eatery 100,Delhi,Chinese,285,4.2,2385,No
+101,Delhi Eatery 101,Delhi,Fast Food,350,3.3,78,No
+102,Delhi Eatery 102,Delhi,Fast Food,603,3.9,281,Yes
+103,Delhi Eatery 103,Delhi,South Indian,329,4.2,3581,Yes
+104,Delhi Eatery 104,Delhi,Street Food,564,3.8,3439,Yes
+105,Delhi Eatery 105,Delhi,Street Food,219,3.1,1298,Yes
+106,Delhi Eatery 106,Delhi,Cafe,184,3.9,2244,No
+107,Delhi Eatery 107,Delhi,Biryani,653,4.3,3907,Yes
+108,Delhi Eatery 108,Delhi,Cafe,316,4.6,3402,Yes
+109,Delhi Eatery 109,Delhi,Chinese,252,3.1,2453,Yes
+110,Delhi Eatery 110,Delhi,North Indian,290,5.0,4323,Yes
+111,Delhi Eatery 111,Delhi,Biryani,154,3.5,2687,No
+112,Delhi Eatery 112,Delhi,Cafe,568,4.4,47,Yes
+113,Delhi Eatery 113,Delhi,Street Food,639,4.5,2296,Yes
+114,Delhi Eatery 114,Delhi,Italian,159,4.4,1229,No
+115,Delhi Eatery 115,Delhi,Cafe,478,4.1,3386,No
+116,Delhi Eatery 116,Delhi,North Indian,350,3.5,542,Yes
+117,Delhi Eatery 117,Delhi,Street Food,519,4.3,4950,Yes
+118,Delhi Eatery 118,Delhi,South Indian,535,3.7,3045,Yes
+119,Delhi Eatery 119,Delhi,Cafe,553,3.0,3993,No
+120,Delhi Eatery 120,Delhi,Street Food,175,5.0,2312,No
+121,Delhi Eatery 121,Delhi,Italian,803,3.9,3914,Yes
+122,Delhi Eatery 122,Delhi,Fast Food,1626,4.3,1007,Yes
+123,Delhi Eatery 123,Delhi,South Indian,1469,4.1,1032,Yes
+124,Delhi Eatery 124,Delhi,Italian,1976,4.8,2727,Yes
+125,Delhi Eatery 125,Delhi,Chinese,941,4.1,88,Yes
+126,Delhi Eatery 126,Delhi,North Indian,1609,4.6,4907,Yes
+127,Delhi Eatery 127,Delhi,Fast Food,1023,4.1,2505,Yes
+128,Delhi Eatery 128,Delhi,Biryani,1677,4.2,1848,No
+129,Delhi Eatery 129,Delhi,Italian,1268,3.4,398,No
+130,Delhi Eatery 130,Delhi,Italian,1340,3.9,992,Yes
+131,Delhi Eatery 131,Delhi,Street Food,1196,4.0,4501,Yes
+132,Delhi Eatery 132,Delhi,Biryani,1594,3.9,1690,Yes
+133,Delhi Eatery 133,Delhi,Fast Food,791,3.1,3444,Yes
+134,Delhi Eatery 134,Delhi,Biryani,1857,4.4,834,Yes
+135,Delhi Eatery 135,Delhi,Street Food,1309,3.8,1862,No
+136,Delhi Eatery 136,Delhi,Cafe,2171,3.8,1644,Yes
+137,Delhi Eatery 137,Delhi,Chinese,1373,3.9,4210,Yes
+138,Delhi Eatery 138,Delhi,Fast Food,883,3.9,2007,No
+139,Delhi Eatery 139,Delhi,Street Food,1130,4.2,3988,Yes
+140,Delhi Eatery 140,Delhi,Italian,1389,3.5,4610,No
+141,Delhi Eatery 141,Delhi,Street Food,1276,3.6,1645,Yes
+142,Delhi Eatery 142,Delhi,South Indian,1097,4.1,1070,No
+143,Delhi Eatery 143,Delhi,Street Food,1198,4.1,4239,No
+144,Delhi Eatery 144,Delhi,South Indian,1799,3.8,4637,No
+145,Delhi Eatery 145,Delhi,North Indian,1265,3.8,4648,No
+146,Delhi Eatery 146,Delhi,North Indian,933,3.7,677,No
+147,Delhi Eatery 147,Delhi,Biryani,1628,4.0,3107,No
+148,Delhi Eatery 148,Delhi,Street Food,1809,4.5,600,Yes
+149,Delhi Eatery 149,Delhi,Fast Food,1445,3.6,1771,Yes
+150,Delhi Eatery 150,Delhi,Cafe,1786,4.6,2046,Yes
+151,Delhi Eatery 151,Delhi,Italian,996,4.3,4504,Yes
+152,Delhi Eatery 152,Delhi,Italian,917,3.8,3671,Yes
+153,Delhi Eatery 153,Delhi,South Indian,1892,4.3,4715,No
+154,Delhi Eatery 154,Delhi,Street Food,1883,3.4,4177,No
+155,Delhi Eatery 155,Delhi,Fast Food,1469,3.3,1749,Yes
+156,Delhi Eatery 156,Delhi,Italian,1428,3.5,4327,No
+157,Delhi Eatery 157,Delhi,Fast Food,1387,3.8,449,Yes
+158,Delhi Eatery 158,Delhi,Italian,1030,3.9,1022,Yes
+159,Delhi Eatery 159,Delhi,Chinese,1770,3.8,4341,No
+160,Delhi Eatery 160,Delhi,Chinese,1272,4.0,293,No
+161,Delhi Eatery 161,Delhi,Italian,1828,3.1,3330,No
+162,Delhi Eatery 162,Delhi,Fast Food,1362,4.2,4458,Yes
+163,Delhi Eatery 163,Delhi,Italian,1973,3.4,1175,Yes
+164,Delhi Eatery 164,Delhi,South Indian,1970,3.7,3493,No
+165,Delhi Eatery 165,Delhi,Cafe,1916,3.8,2843,Yes
+166,Delhi Eatery 166,Delhi,Street Food,1103,3.5,3514,No
+167,Delhi Eatery 167,Delhi,South Indian,1703,3.5,1554,No
+168,Delhi Eatery 168,Delhi,Fast Food,1830,3.6,597,Yes
+169,Delhi Eatery 169,Delhi,North Indian,1781,4.0,4597,No
+170,Delhi Eatery 170,Delhi,South Indian,2019,4.2,537,Yes
+171,Delhi Eatery 171,Delhi,South Indian,935,4.2,1723,No
+172,Delhi Eatery 172,Delhi,Italian,1685,3.6,26,Yes
+173,Delhi Eatery 173,Delhi,Chinese,1748,3.7,997,Yes
+174,Delhi Eatery 174,Delhi,Street Food,1236,3.6,3265,Yes
+175,Delhi Eatery 175,Delhi,North Indian,1081,4.2,235,Yes
+176,Delhi Eatery 176,Delhi,Biryani,1548,3.2,1109,Yes
+177,Delhi Eatery 177,Delhi,Biryani,1086,4.5,1725,Yes
+178,Delhi Eatery 178,Delhi,Street Food,1582,3.8,1671,No
+179,Delhi Eatery 179,Delhi,Italian,880,3.7,4947,No
+180,Delhi Eatery 180,Delhi,Italian,1292,4.1,948,Yes
+181,Delhi Eatery 181,Delhi,Fast Food,1295,4.4,1107,No
+182,Delhi Eatery 182,Delhi,Street Food,1800,4.1,3796,Yes
+183,Delhi Eatery 183,Delhi,Italian,729,4.4,2301,Yes
+184,Delhi Eatery 184,Delhi,South Indian,1245,4.1,2499,No
+185,Delhi Eatery 185,Delhi,North Indian,1685,4.5,4861,Yes
+186,Delhi Eatery 186,Delhi,Biryani,1445,4.5,1043,No
+187,Delhi Eatery 187,Delhi,Biryani,1822,4.0,53,No
+188,Delhi Eatery 188,Delhi,Italian,2003,4.6,4403,Yes
+189,Delhi Eatery 189,Delhi,Biryani,1863,4.1,1489,Yes
+190,Delhi Eatery 190,Delhi,Cafe,1201,4.0,1614,No
+191,Delhi Eatery 191,Delhi,Chinese,893,3.6,4109,Yes
+192,Delhi Eatery 192,Delhi,Chinese,830,3.9,3130,No
+193,Delhi Eatery 193,Delhi,South Indian,1661,4.3,496,Yes
+194,Delhi Eatery 194,Delhi,Street Food,889,3.5,4467,No
+195,Delhi Eatery 195,Delhi,Italian,1957,4.3,4642,No
+196,Delhi Eatery 196,Delhi,Street Food,1568,4.1,62,Yes
+197,Delhi Eatery 197,Delhi,Chinese,753,4.1,4176,Yes
+198,Delhi Eatery 198,Delhi,Biryani,1887,3.1,897,Yes
+199,Delhi Eatery 199,Delhi,Street Food,990,4.0,732,Yes
+200,Delhi Eatery 200,Delhi,Italian,2188,4.3,3828,Yes

@@ -1,0 +1,301 @@
+product_id,product_name,brand,category,gender,price,discount_percent,rating,rating_count,size_available,discounted_price
+5001,Mast & Harbour Jeans,Mast & Harbour,Jeans,Men,3147,30,3.9,3631,L,2203
+5002,HRX Watches,HRX,Watches,Men,3840,0,4.3,504,Free Size,3840
+5003,Levis Jackets,Levis,Jackets,Unisex,4299,40,4.6,2295,L,2579
+5004,HRX Shoes,HRX,Shoes,Men,4527,10,4.1,3276,S,4074
+5005,Nike Kurtas,Nike,Kurtas,Unisex,5549,30,,406,L,3884
+5006,Adidas Jackets,Adidas,Jackets,Men,802,20,4.4,4977,L,642
+5007,Biba Jackets,Biba,Jackets,Women,2609,10,,1889,L,2348
+5008,Mast & Harbour Dresses,Mast & Harbour,Dresses,Men,405,0,4.6,83,L,405
+5009,Mast & Harbour Handbags,Mast & Harbour,Handbags,Unisex,456,30,2.9,3294,Free Size,319
+5010,HRX Handbags,HRX,Handbags,Men,1694,60,4.0,2790,Free Size,678
+5011,Mast & Harbour Jeans,Mast & Harbour,Jeans,Women,4048,10,,3203,M,3643
+5012,Levis Kurtas,Levis,Kurtas,Men,5856,20,4.6,3756,M,4685
+5013,Adidas T-Shirts,Adidas,T-Shirts,Men,5118,10,4.2,2380,XL,4606
+5014,Adidas Dresses,Adidas,Dresses,Men,4342,50,3.7,4134,L,2171
+5015,Mast & Harbour Handbags,Mast & Harbour,Handbags,Unisex,5146,20,3.2,1853,L,4117
+5016,Biba Jeans,Biba,Jeans,Women,1448,60,3.5,2728,S,579
+5017,Puma Shoes,Puma,Shoes,Women,5522,10,4.3,796,M,4970
+5018,Nike Jeans,Nike,Jeans,Women,5830,0,3.2,3101,XL,5830
+5019,HRX Kurtas,HRX,Kurtas,Unisex,978,40,3.0,1311,Free Size,587
+5020,Levis Shoes,Levis,Shoes,Women,3266,40,4.7,3485,XL,1960
+5021,Adidas Jackets,Adidas,Jackets,Women,5463,60,4.4,4006,M,2185
+5022,HRX Handbags,HRX,Handbags,Men,3303,60,3.2,4295,S,1321
+5023,Levis Jackets,Levis,Jackets,Men,5526,60,3.4,4645,S,2210
+5024,Mast & Harbour Kurtas,Mast & Harbour,Kurtas,Men,6106,40,4.8,615,M,3664
+5025,Roadster T-Shirts,Roadster,T-Shirts,Women,3294,20,4.3,694,L,2635
+5026,HRX Jeans,HRX,Jeans,Men,761,30,4.1,4631,Free Size,533
+5027,Levis Handbags,Levis,Handbags,Men,2473,0,3.4,1907,Free Size,2473
+5028,HRX Watches,HRX,Watches,Men,1711,30,3.4,134,S,1198
+5029,Mast & Harbour Kurtas,Mast & Harbour,Kurtas,Men,3291,20,2.9,1438,XL,2633
+5030,Mast & Harbour Shoes,Mast & Harbour,Shoes,Unisex,3972,0,4.3,4181,M,3972
+5031,Levis Jeans,Levis,Jeans,Women,3229,10,2.9,1778,S,2906
+5032,HRX Watches,HRX,Watches,Unisex,1591,30,2.8,388,L,1114
+5033,Levis Watches,Levis,Watches,Women,2236,20,4.3,3611,S,1789
+5034,Puma Jeans,Puma,Jeans,Unisex,4544,60,4.8,977,M,1818
+5035,HRX Jackets,HRX,Jackets,Men,563,30,4.4,1767,L,394
+5036,H&M Jackets,H&M,Jackets,Women,1705,60,3.8,24,M,682
+5037,Puma Shoes,Puma,Shoes,Unisex,5843,40,3.8,3011,L,3506
+5038,Nike Handbags,Nike,Handbags,Women,1003,0,3.7,2229,L,1003
+5039,Levis T-Shirts,Levis,T-Shirts,Unisex,2929,10,3.5,4335,XL,2636
+5040,Nike Dresses,Nike,Dresses,Men,1661,40,3.9,1675,S,997
+5041,Adidas T-Shirts,Adidas,T-Shirts,Men,1037,30,3.7,1027,S,726
+5042,HRX Kurtas,HRX,Kurtas,Unisex,2978,20,4.1,834,L,2382
+5043,Roadster Kurtas,Roadster,Kurtas,Men,3580,30,4.7,1004,M,2506
+5044,Biba Handbags,Biba,Handbags,Unisex,1473,60,4.9,2258,XL,589
+5045,Levis Jackets,Levis,Jackets,Unisex,873,20,3.0,440,S,698
+5046,Biba Jeans,Biba,Jeans,Unisex,1220,0,3.6,2014,L,1220
+5047,Biba Shoes,Biba,Shoes,Women,4374,20,3.2,4274,Free Size,3499
+5048,Nike T-Shirts,Nike,T-Shirts,Unisex,5647,60,3.5,3839,S,2259
+5049,H&M Kurtas,H&M,Kurtas,Men,1498,50,3.4,3188,M,749
+5050,Levis Kurtas,Levis,Kurtas,Women,2353,50,3.2,4466,Free Size,1176
+5051,Mast & Harbour Watches,Mast & Harbour,Watches,Men,2496,60,4.4,3902,L,998
+5052,Puma Dresses,Puma,Dresses,Unisex,2599,0,3.8,3264,S,2599
+5053,Puma Dresses,Puma,Dresses,Unisex,1889,10,4.7,4316,M,1700
+5054,Mast & Harbour T-Shirts,Mast & Harbour,T-Shirts,Unisex,736,0,2.9,626,XL,736
+5055,Mast & Harbour Shoes,Mast & Harbour,Shoes,Unisex,3602,0,2.9,4092,Free Size,3602
+5056,Puma Shoes,Puma,Shoes,Men,2579,50,3.6,1480,M,1290
+5057,HRX Watches,HRX,Watches,Men,2487,60,3.0,3666,L,995
+5058,Adidas Watches,Adidas,Watches,Unisex,2014,10,3.4,4567,XL,1813
+5059,Puma Jeans,Puma,Jeans,Women,6068,50,4.9,2482,S,3034
+5060,Roadster Dresses,Roadster,Dresses,Men,4123,30,3.2,448,M,2886
+5061,Roadster Jackets,Roadster,Jackets,Unisex,2953,0,3.2,1854,XL,2953
+5062,Adidas Dresses,Adidas,Dresses,Unisex,1652,60,4.0,2037,S,661
+5063,Roadster T-Shirts,Roadster,T-Shirts,Women,5286,60,3.8,4683,XL,2114
+5064,HRX Watches,HRX,Watches,Unisex,5818,30,4.0,4712,L,4073
+5065,H&M Kurtas,H&M,Kurtas,Men,596,40,3.6,2844,Free Size,358
+5066,Biba Jackets,Biba,Jackets,Men,6070,20,,4753,S,4856
+5067,Puma Dresses,Puma,Dresses,Men,4666,50,3.1,2184,Free Size,2333
+5068,H&M Watches,H&M,Watches,Women,1008,30,3.7,2058,M,706
+5069,H&M T-Shirts,H&M,T-Shirts,Men,4994,60,4.2,4183,S,1998
+5070,Mast & Harbour Shoes,Mast & Harbour,Shoes,Men,1054,0,4.6,3338,XL,1054
+5071,Mast & Harbour Watches,Mast & Harbour,Watches,Unisex,709,10,3.6,2614,L,638
+5072,Levis Handbags,Levis,Handbags,Unisex,1102,60,4.0,2286,Free Size,441
+5073,Puma Dresses,Puma,Dresses,Unisex,3204,20,2.9,3529,S,2563
+5074,Biba Kurtas,Biba,Kurtas,Unisex,4178,20,3.2,3768,S,3342
+5075,HRX Jeans,HRX,Jeans,Unisex,2884,50,,2455,L,1442
+5076,W T-Shirts,W,T-Shirts,Women,1143,10,4.3,162,Free Size,1029
+5077,Roadster Dresses,Roadster,Dresses,Women,1614,30,3.4,513,L,1130
+5078,Mast & Harbour Handbags,Mast & Harbour,Handbags,Unisex,5599,20,4.3,725,XL,4479
+5079,W Kurtas,W,Kurtas,Women,6271,10,2.9,2313,Free Size,5644
+5080,H&M Shoes,H&M,Shoes,Men,5000,60,4.6,3072,Free Size,2000
+5081,Biba Dresses,Biba,Dresses,Unisex,1029,10,4.6,4019,L,926
+5082,H&M Jeans,H&M,Jeans,Men,5400,0,3.0,1166,XL,5400
+5083,Roadster Dresses,Roadster,Dresses,Unisex,4620,40,2.8,3934,L,2772
+5084,H&M Jeans,H&M,Jeans,Women,3608,60,2.9,3331,XL,1443
+5085,Adidas Jeans,Adidas,Jeans,Unisex,1272,0,4.6,263,L,1272
+5086,H&M Kurtas,H&M,Kurtas,Men,6479,40,3.3,1759,L,3887
+5087,Adidas Jeans,Adidas,Jeans,Women,3099,30,,1516,L,2169
+5088,Levis T-Shirts,Levis,T-Shirts,Women,668,50,3.7,4433,XL,334
+5089,Biba Jackets,Biba,Jackets,Women,1680,0,4.5,4606,XL,1680
+5090,Mast & Harbour Dresses,Mast & Harbour,Dresses,Men,2847,60,3.8,4097,Free Size,1139
+5091,Nike Shoes,Nike,Shoes,Unisex,779,40,3.9,2642,XL,467
+5092,Mast & Harbour Jeans,Mast & Harbour,Jeans,Women,2375,50,4.9,2466,S,1188
+5093,Puma Jeans,Puma,Jeans,Unisex,3256,20,3.1,1560,L,2605
+5094,Levis Shoes,Levis,Shoes,Women,6186,60,4.5,3865,M,2474
+5095,Roadster Kurtas,Roadster,Kurtas,Men,925,40,2.9,435,S,555
+5096,Adidas Shoes,Adidas,Shoes,Unisex,3918,0,3.8,1359,S,3918
+5097,Biba Jackets,Biba,Jackets,Men,5986,60,4.7,680,L,2394
+5098,W Jackets,W,Jackets,Men,5317,50,4.2,2473,Free Size,2658
+5099,HRX Dresses,HRX,Dresses,Unisex,6042,20,4.2,1502,L,4834
+5100,Mast & Harbour Dresses,Mast & Harbour,Dresses,Unisex,1438,30,3.4,991,L,1007
+5101,Roadster Shoes,Roadster,Shoes,Unisex,5287,20,3.7,1885,S,4230
+5102,H&M T-Shirts,H&M,T-Shirts,Women,6369,30,3.6,4305,XL,4458
+5103,Roadster Kurtas,Roadster,Kurtas,Unisex,2388,60,3.9,2792,S,955
+5104,Levis Jackets,Levis,Jackets,Men,3441,60,3.8,4116,Free Size,1376
+5105,Adidas Dresses,Adidas,Dresses,Unisex,3637,10,3.5,4569,Free Size,3273
+5106,W Dresses,W,Dresses,Women,3410,60,3.4,4511,Free Size,1364
+5107,H&M Dresses,H&M,Dresses,Men,2166,30,3.3,1758,M,1516
+5108,Roadster Kurtas,Roadster,Kurtas,Women,6322,40,3.6,4387,S,3793
+5109,Mast & Harbour Watches,Mast & Harbour,Watches,Women,6234,50,3.1,4547,M,3117
+5110,HRX T-Shirts,HRX,T-Shirts,Men,2721,30,4.6,4798,XL,1905
+5111,H&M Shoes,H&M,Shoes,Women,5312,30,4.1,1758,M,3718
+5112,Mast & Harbour T-Shirts,Mast & Harbour,T-Shirts,Women,2824,30,3.1,1145,Free Size,1977
+5113,HRX Shoes,HRX,Shoes,Men,5248,60,4.3,2923,S,2099
+5114,Mast & Harbour Jeans,Mast & Harbour,Jeans,Men,3966,20,4.6,4659,S,3173
+5115,Mast & Harbour Dresses,Mast & Harbour,Dresses,Unisex,3267,10,3.3,4503,M,2940
+5116,Mast & Harbour Shoes,Mast & Harbour,Shoes,Women,1180,20,3.1,2858,XL,944
+5117,Levis Dresses,Levis,Dresses,Women,4392,10,2.8,750,XL,3953
+5118,Biba Shoes,Biba,Shoes,Women,2357,20,2.9,2115,M,1886
+5119,Mast & Harbour Watches,Mast & Harbour,Watches,Women,1722,0,4.4,3572,XL,1722
+5120,H&M Watches,H&M,Watches,Women,1577,0,4.9,2804,XL,1577
+5121,Nike T-Shirts,Nike,T-Shirts,Women,6389,50,2.9,1730,L,3194
+5122,Roadster Shoes,Roadster,Shoes,Unisex,1029,0,4.4,1716,L,1029
+5123,Adidas Watches,Adidas,Watches,Unisex,5270,30,3.0,303,S,3689
+5124,Levis Jackets,Levis,Jackets,Men,5683,50,4.0,1446,M,2842
+5125,Nike Jeans,Nike,Jeans,Unisex,588,50,4.4,3348,L,294
+5126,Levis Jackets,Levis,Jackets,Unisex,3994,30,3.6,1210,S,2796
+5127,Puma Jeans,Puma,Jeans,Men,3921,10,2.8,4966,L,3529
+5128,Levis T-Shirts,Levis,T-Shirts,Unisex,2587,60,4.0,416,S,1035
+5129,Levis Kurtas,Levis,Kurtas,Women,4466,50,4.9,2945,XL,2233
+5130,Adidas Jackets,Adidas,Jackets,Unisex,2892,40,,2485,S,1735
+5131,HRX Watches,HRX,Watches,Women,3081,0,3.2,4167,S,3081
+5132,HRX Dresses,HRX,Dresses,Unisex,3031,0,3.1,4439,XL,3031
+5133,Adidas Watches,Adidas,Watches,Men,5283,20,4.0,2719,M,4226
+5134,Biba Shoes,Biba,Shoes,Men,4261,10,4.1,3152,M,3835
+5135,W Kurtas,W,Kurtas,Unisex,2711,60,4.5,3496,M,1084
+5136,Roadster T-Shirts,Roadster,T-Shirts,Women,6053,10,,2607,M,5448
+5137,HRX T-Shirts,HRX,T-Shirts,Women,5292,10,4.7,928,XL,4763
+5138,Roadster Watches,Roadster,Watches,Men,6089,60,4.5,2145,XL,2436
+5139,Levis Watches,Levis,Watches,Men,4855,50,3.3,1211,M,2428
+5140,Puma Handbags,Puma,Handbags,Unisex,2787,10,4.0,2324,XL,2508
+5141,HRX Dresses,HRX,Dresses,Men,5114,20,3.4,3077,XL,4091
+5142,Puma T-Shirts,Puma,T-Shirts,Women,2407,30,3.5,1050,L,1685
+5143,Levis Handbags,Levis,Handbags,Men,2051,40,4.8,1250,L,1231
+5144,W Jackets,W,Jackets,Men,3150,60,4.2,4115,Free Size,1260
+5145,Mast & Harbour Jeans,Mast & Harbour,Jeans,Men,6312,60,4.8,1891,L,2525
+5146,HRX Watches,HRX,Watches,Unisex,3863,60,3.7,995,M,1545
+5147,Nike Handbags,Nike,Handbags,Unisex,2739,0,3.9,3567,L,2739
+5148,H&M Dresses,H&M,Dresses,Men,3216,10,3.8,3584,Free Size,2894
+5149,Puma Watches,Puma,Watches,Women,2175,30,3.0,4131,XL,1522
+5150,Biba Watches,Biba,Watches,Women,4418,0,3.3,3801,S,4418
+5151,Mast & Harbour Jackets,Mast & Harbour,Jackets,Women,2536,20,3.9,4959,L,2029
+5152,Levis Kurtas,Levis,Kurtas,Unisex,3781,10,2.9,2876,XL,3403
+5153,Puma Dresses,Puma,Dresses,Men,2655,60,4.8,1437,M,1062
+5154,Nike Handbags,Nike,Handbags,Men,2355,0,3.1,4315,Free Size,2355
+5155,Mast & Harbour Handbags,Mast & Harbour,Handbags,Women,6318,10,3.2,1327,Free Size,5686
+5156,Roadster Handbags,Roadster,Handbags,Women,2508,10,4.4,1458,Free Size,2257
+5157,Puma Kurtas,Puma,Kurtas,Men,829,10,3.0,4143,S,746
+5158,Puma T-Shirts,Puma,T-Shirts,Unisex,2708,30,4.7,4408,L,1896
+5159,H&M Dresses,H&M,Dresses,Men,3645,20,4.3,1700,L,2916
+5160,Adidas Shoes,Adidas,Shoes,Men,976,60,,3648,XL,390
+5161,W Handbags,W,Handbags,Women,2263,10,4.3,4612,Free Size,2037
+5162,H&M Jackets,H&M,Jackets,Women,1412,30,4.1,3994,M,988
+5163,Adidas Jackets,Adidas,Jackets,Men,3453,40,4.4,29,L,2072
+5164,Nike Jeans,Nike,Jeans,Men,4810,40,4.5,3324,XL,2886
+5165,Nike Watches,Nike,Watches,Men,6307,50,4.3,853,XL,3154
+5166,Nike Dresses,Nike,Dresses,Women,2772,10,4.0,4232,XL,2495
+5167,Mast & Harbour T-Shirts,Mast & Harbour,T-Shirts,Women,5665,30,3.5,339,M,3965
+5168,Levis Handbags,Levis,Handbags,Men,1707,50,4.3,4965,Free Size,854
+5169,W Jeans,W,Jeans,Women,5160,60,4.8,890,S,2064
+5170,Nike T-Shirts,Nike,T-Shirts,Unisex,3831,40,4.0,2103,L,2299
+5171,Nike T-Shirts,Nike,T-Shirts,Men,5024,40,4.2,1174,XL,3014
+5172,W Shoes,W,Shoes,Unisex,5008,60,3.7,4070,S,2003
+5173,Puma T-Shirts,Puma,T-Shirts,Men,3647,40,4.4,1970,L,2188
+5174,Puma Watches,Puma,Watches,Men,1969,60,4.9,3724,L,788
+5175,Levis Jackets,Levis,Jackets,Men,3609,0,3.1,340,XL,3609
+5176,Adidas Dresses,Adidas,Dresses,Men,5443,20,3.2,2267,S,4354
+5177,H&M T-Shirts,H&M,T-Shirts,Men,6320,0,3.9,4555,M,6320
+5178,HRX Shoes,HRX,Shoes,Women,6057,0,3.8,4635,M,6057
+5179,Adidas Jeans,Adidas,Jeans,Women,1506,30,4.0,1047,XL,1054
+5180,HRX Handbags,HRX,Handbags,Unisex,4043,10,2.9,1975,M,3639
+5181,Roadster Dresses,Roadster,Dresses,Women,1037,20,3.6,2048,L,830
+5182,Nike Shoes,Nike,Shoes,Women,4480,30,4.0,2829,XL,3136
+5183,HRX T-Shirts,HRX,T-Shirts,Women,6453,40,,2688,XL,3872
+5184,W Jeans,W,Jeans,Men,719,60,4.2,534,S,288
+5185,Adidas Jeans,Adidas,Jeans,Unisex,4404,50,4.3,3814,Free Size,2202
+5186,W T-Shirts,W,T-Shirts,Men,6167,20,4.1,1132,S,4934
+5187,Puma Kurtas,Puma,Kurtas,Unisex,5567,20,,1578,S,4454
+5188,Nike Handbags,Nike,Handbags,Unisex,2793,50,4.1,4204,S,1396
+5189,Levis Handbags,Levis,Handbags,Unisex,1033,0,3.9,3449,M,1033
+5190,Puma Dresses,Puma,Dresses,Women,6035,30,4.1,1985,Free Size,4224
+5191,Levis Watches,Levis,Watches,Men,6019,20,3.0,4562,M,4815
+5192,Mast & Harbour Jackets,Mast & Harbour,Jackets,Unisex,3931,10,3.4,1973,XL,3538
+5193,Roadster T-Shirts,Roadster,T-Shirts,Men,6371,40,3.9,2829,L,3823
+5194,Levis T-Shirts,Levis,T-Shirts,Women,427,20,4.6,1233,S,342
+5195,Adidas Jackets,Adidas,Jackets,Unisex,4160,10,4.2,920,L,3744
+5196,Puma Shoes,Puma,Shoes,Unisex,634,40,3.0,2460,S,380
+5197,W T-Shirts,W,T-Shirts,Unisex,6107,10,4.0,2817,L,5496
+5198,H&M Handbags,H&M,Handbags,Men,4550,40,3.3,4030,L,2730
+5199,W Kurtas,W,Kurtas,Unisex,5971,10,4.3,1957,L,5374
+5200,Adidas Jackets,Adidas,Jackets,Men,3831,30,4.5,4476,M,2682
+5201,Puma Handbags,Puma,Handbags,Women,906,50,4.0,3038,XL,453
+5202,Biba Handbags,Biba,Handbags,Unisex,560,10,4.0,355,L,504
+5203,Puma Handbags,Puma,Handbags,Women,2446,50,3.5,3696,M,1223
+5204,Levis Dresses,Levis,Dresses,Unisex,4934,50,3.7,2876,L,2467
+5205,Mast & Harbour Handbags,Mast & Harbour,Handbags,Women,1320,60,4.6,1949,S,528
+5206,Mast & Harbour Jackets,Mast & Harbour,Jackets,Men,5597,10,4.3,2339,Free Size,5037
+5207,W Kurtas,W,Kurtas,Men,1860,50,3.9,1512,XL,930
+5208,HRX Watches,HRX,Watches,Women,3427,60,3.6,3073,M,1371
+5209,Levis Jeans,Levis,Jeans,Unisex,1637,50,2.9,2836,XL,818
+5210,Roadster Shoes,Roadster,Shoes,Women,3240,10,3.1,2239,XL,2916
+5211,Mast & Harbour Jeans,Mast & Harbour,Jeans,Unisex,3157,50,3.2,1429,XL,1578
+5212,HRX Dresses,HRX,Dresses,Women,432,0,3.6,1996,S,432
+5213,Biba Shoes,Biba,Shoes,Men,3863,40,4.8,2491,Free Size,2318
+5214,Roadster Watches,Roadster,Watches,Men,5198,30,3.9,2362,Free Size,3639
+5215,Biba Watches,Biba,Watches,Women,6111,30,3.3,1549,Free Size,4278
+5216,H&M Shoes,H&M,Shoes,Unisex,2416,30,3.0,2912,Free Size,1691
+5217,Biba Dresses,Biba,Dresses,Unisex,5771,0,3.5,1136,Free Size,5771
+5218,Nike Jackets,Nike,Jackets,Men,5760,30,4.5,2507,XL,4032
+5219,Puma Handbags,Puma,Handbags,Women,6429,60,3.6,612,S,2572
+5220,Roadster Handbags,Roadster,Handbags,Unisex,2675,30,,2363,L,1872
+5221,HRX Jeans,HRX,Jeans,Women,5590,10,4.5,3920,M,5031
+5222,Biba Jeans,Biba,Jeans,Men,3846,60,3.0,4090,M,1538
+5223,Roadster Kurtas,Roadster,Kurtas,Women,754,0,4.1,3474,Free Size,754
+5224,Nike Dresses,Nike,Dresses,Men,2048,30,4.8,3729,Free Size,1434
+5225,Roadster Jeans,Roadster,Jeans,Men,4499,30,3.6,334,L,3149
+5226,HRX T-Shirts,HRX,T-Shirts,Women,1378,30,2.9,1710,XL,965
+5227,Levis Shoes,Levis,Shoes,Men,3051,60,4.7,3272,S,1220
+5228,Adidas Shoes,Adidas,Shoes,Women,5126,20,4.7,4003,M,4101
+5229,H&M Jackets,H&M,Jackets,Women,1312,60,3.9,2916,Free Size,525
+5230,Adidas Jeans,Adidas,Jeans,Women,3428,0,4.0,4268,L,3428
+5231,Adidas Kurtas,Adidas,Kurtas,Women,1709,50,3.2,1368,L,854
+5232,Biba Kurtas,Biba,Kurtas,Men,3672,40,4.5,771,L,2203
+5233,Levis Shoes,Levis,Shoes,Unisex,1867,10,3.8,436,M,1680
+5234,W Jeans,W,Jeans,Unisex,6289,10,2.9,2915,Free Size,5660
+5235,H&M Jackets,H&M,Jackets,Unisex,866,50,4.2,3327,XL,433
+5236,Biba Kurtas,Biba,Kurtas,Unisex,6277,40,4.8,1430,XL,3766
+5237,Nike Dresses,Nike,Dresses,Women,5230,40,4.5,3919,M,3138
+5238,Puma Dresses,Puma,Dresses,Unisex,5619,0,3.4,3697,XL,5619
+5239,W Jackets,W,Jackets,Women,5594,40,2.9,1803,Free Size,3356
+5240,HRX Dresses,HRX,Dresses,Men,1543,60,4.8,1197,XL,617
+5241,Adidas Shoes,Adidas,Shoes,Unisex,6079,0,4.8,3712,L,6079
+5242,Adidas Dresses,Adidas,Dresses,Men,4024,30,3.9,3358,M,2817
+5243,Adidas Dresses,Adidas,Dresses,Unisex,6269,30,4.1,858,L,4388
+5244,H&M Kurtas,H&M,Kurtas,Women,5756,60,3.8,1279,M,2302
+5245,Puma Shoes,Puma,Shoes,Unisex,3935,10,3.7,2432,XL,3542
+5246,Nike Shoes,Nike,Shoes,Women,2683,30,3.1,2558,S,1878
+5247,W Kurtas,W,Kurtas,Women,1114,50,3.0,833,S,557
+5248,H&M Dresses,H&M,Dresses,Men,1015,0,3.3,4743,XL,1015
+5249,Levis T-Shirts,Levis,T-Shirts,Unisex,2776,50,4.6,1946,M,1388
+5250,HRX Watches,HRX,Watches,Men,5346,50,3.1,1909,L,2673
+5251,Puma T-Shirts,Puma,T-Shirts,Women,3482,50,3.3,307,L,1741
+5252,HRX Jackets,HRX,Jackets,Women,3338,40,4.0,4379,L,2003
+5253,Nike Dresses,Nike,Dresses,Women,1890,50,3.3,1179,XL,945
+5254,Puma Jeans,Puma,Jeans,Men,3842,50,3.1,4934,M,1921
+5255,Puma T-Shirts,Puma,T-Shirts,Women,4291,60,4.0,2482,XL,1716
+5256,W Handbags,W,Handbags,Women,6391,20,3.6,4374,M,5113
+5257,Levis Shoes,Levis,Shoes,Men,4849,30,4.1,899,M,3394
+5258,Mast & Harbour Dresses,Mast & Harbour,Dresses,Men,4103,40,4.7,833,L,2462
+5259,HRX Kurtas,HRX,Kurtas,Unisex,5951,10,3.1,4006,Free Size,5356
+5260,H&M T-Shirts,H&M,T-Shirts,Men,2991,50,4.7,4099,M,1496
+5261,Adidas Jackets,Adidas,Jackets,Men,6103,50,4.7,2717,L,3052
+5262,Mast & Harbour Shoes,Mast & Harbour,Shoes,Women,2656,40,,165,S,1594
+5263,Levis Jackets,Levis,Jackets,Men,1178,20,4.1,4718,S,942
+5264,Nike T-Shirts,Nike,T-Shirts,Women,2946,20,4.1,1969,XL,2357
+5265,Roadster Handbags,Roadster,Handbags,Men,1184,30,4.1,4680,XL,829
+5266,Mast & Harbour Jeans,Mast & Harbour,Jeans,Women,1121,40,4.3,4354,M,673
+5267,Levis Kurtas,Levis,Kurtas,Unisex,5775,50,2.8,4258,XL,2888
+5268,Mast & Harbour Kurtas,Mast & Harbour,Kurtas,Women,5247,40,4.8,3445,M,3148
+5269,Levis Dresses,Levis,Dresses,Unisex,1748,60,,3367,M,699
+5270,Nike Jeans,Nike,Jeans,Unisex,5509,60,4.4,2666,L,2204
+5271,W Dresses,W,Dresses,Men,819,40,3.6,128,M,491
+5272,Biba Watches,Biba,Watches,Women,2134,20,2.8,1942,Free Size,1707
+5273,Biba Handbags,Biba,Handbags,Men,4706,40,3.9,3654,L,2824
+5274,Mast & Harbour Handbags,Mast & Harbour,Handbags,Women,2252,20,3.9,4062,M,1802
+5275,Puma Jeans,Puma,Jeans,Men,4855,40,3.7,2800,L,2913
+5276,Mast & Harbour Jackets,Mast & Harbour,Jackets,Unisex,5733,50,3.5,3549,XL,2866
+5277,H&M Jeans,H&M,Jeans,Men,802,20,,113,M,642
+5278,Mast & Harbour Kurtas,Mast & Harbour,Kurtas,Women,545,30,3.9,2344,Free Size,382
+5279,Puma Shoes,Puma,Shoes,Men,6133,0,3.6,2541,L,6133
+5280,Levis Kurtas,Levis,Kurtas,Unisex,3574,50,4.8,4462,XL,1787
+5281,Biba Kurtas,Biba,Kurtas,Unisex,3489,30,3.2,1558,Free Size,2442
+5282,Nike Handbags,Nike,Handbags,Unisex,3227,30,3.5,1153,L,2259
+5283,Nike Shoes,Nike,Shoes,Women,3044,30,3.4,1765,S,2131
+5284,W Dresses,W,Dresses,Men,4609,10,3.9,856,XL,4148
+5285,Nike Jackets,Nike,Jackets,Unisex,3936,40,3.8,2794,S,2362
+5286,Adidas Jeans,Adidas,Jeans,Women,1395,50,4.2,3215,L,698
+5287,Mast & Harbour T-Shirts,Mast & Harbour,T-Shirts,Unisex,4222,20,4.8,4006,Free Size,3378
+5288,Adidas Jackets,Adidas,Jackets,Unisex,4476,0,3.4,4860,L,4476
+5289,HRX Watches,HRX,Watches,Women,1092,20,4.3,372,XL,874
+5290,HRX Jackets,HRX,Jackets,Unisex,2697,10,2.9,1240,L,2427
+5291,Adidas Watches,Adidas,Watches,Unisex,5221,20,3.4,1507,M,4177
+5292,Levis Jeans,Levis,Jeans,Women,4173,40,3.8,1252,M,2504
+5293,Levis Shoes,Levis,Shoes,Men,1230,0,2.9,4137,L,1230
+5294,Puma Jackets,Puma,Jackets,Men,643,50,4.1,701,S,322
+5295,Adidas Dresses,Adidas,Dresses,Women,3944,10,4.2,153,L,3550
+5296,Biba T-Shirts,Biba,T-Shirts,Women,3215,60,4.4,4303,L,1286
+5297,Biba T-Shirts,Biba,T-Shirts,Men,6262,50,3.9,4807,Free Size,3131
+5298,Nike Handbags,Nike,Handbags,Men,3585,10,4.1,1135,S,3226
+5299,Biba Jackets,Biba,Jackets,Unisex,6082,30,3.6,1667,Free Size,4257
+5300,Biba Dresses,Biba,Dresses,Unisex,1706,0,2.9,2518,L,1706

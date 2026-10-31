@@ -1,0 +1,251 @@
+review_id,product_id,rating,review_text,review_date,helpful_votes
+1,123,5,  Excellent value for money #0 ,2026-07-24,67
+2,119,4,Stopped working after a week - review 1,2026-03-06,19
+3,113,4,"Poor quality, not satisfied - review 2",2026-08-13,75
+4,115,2,"Great product, worth the money - review 3",2026-05-09,35
+5,104,3,,2026-02-28,14
+6,118,5,  Stopped working after a week #5 ,2026-09-10,22
+7,130,4,"Poor quality, not satisfied - review 6",2026-04-17,0
+8,124,5,Not as described - review 7,2026-10-18,13
+9,117,1,"Poor quality, not satisfied - review 8",2026-09-27,76
+10,133,5,Battery life is amazing - review 9,2026-09-04,11
+11,122,4,  Highly recommended!! #10 ,2026-10-23,68
+12,124,5,Stopped working after a week - review 11,2026-03-27,52
+13,111,4,"Great product, worth the money - review 12",2026-05-13,48
+14,127,4,Average product - review 13,2026-02-28,70
+15,114,5,Battery life is amazing - review 14,2026-08-21,65
+16,107,4,  Highly recommended!! #15 ,2026-04-29,41
+17,130,5,"Poor quality, not satisfied - review 16",2026-10-08,47
+18,123,2,Average product - review 17,2026-02-16,79
+19,118,4,Not as described - review 18,2026-10-27,72
+20,128,4,Fast delivery and good packaging - review 19,2026-02-27,26
+21,123,1,"  Great product, worth the money #20 ",2026-03-30,19
+22,130,2,Stopped working after a week - review 21,2026-10-15,2
+23,116,4,Battery life is amazing - review 22,2026-07-16,35
+24,139,3,Average product - review 23,2026-05-21,49
+25,122,5,Not as described - review 24,2026-04-27,53
+26,118,2,  Good but a bit expensive #25 ,2026-03-26,79
+27,135,1,Average product - review 26,2026-05-20,17
+28,139,5,Good but a bit expensive - review 27,2026-03-07,39
+29,110,3,Highly recommended!! - review 28,2026-05-19,57
+30,109,4,Good but a bit expensive - review 29,2026-06-20,7
+31,120,3,  Good but a bit expensive #30 ,2026-03-25,20
+32,102,3,"Poor quality, not satisfied - review 31",2026-04-17,58
+33,127,4,"Great product, worth the money - review 32",2026-01-06,56
+34,127,5,"Great product, worth the money - review 33",2026-09-24,16
+35,103,1,Average product - review 34,2026-08-18,64
+36,110,5,  Battery life is amazing #35 ,2026-10-23,69
+37,138,5,Highly recommended!! - review 36,2026-07-28,33
+38,107,4,Not as described - review 37,2026-10-27,26
+39,119,4,Highly recommended!! - review 38,2026-09-10,79
+40,127,3,Stopped working after a week - review 39,2026-02-25,21
+41,109,3,  Highly recommended!! #40 ,2026-02-15,50
+42,113,4,Average product - review 41,2026-07-16,29
+43,130,5,"Great product, worth the money - review 42",2026-03-13,60
+44,116,1,"Great product, worth the money - review 43",2026-08-13,49
+45,132,5,"Great product, worth the money - review 44",2026-06-28,1
+46,102,5,  Excellent value for money #45 ,2026-10-22,4
+47,125,1,,2026-10-08,9
+48,113,1,Not as described - review 47,2026-09-07,79
+49,136,5,Average product - review 48,2026-05-22,56
+50,117,5,,2026-07-27,26
+51,103,3,  Fast delivery and good packaging #50 ,2026-03-02,75
+52,133,5,Fast delivery and good packaging - review 51,2026-10-03,24
+53,121,3,"Great product, worth the money - review 52",2026-06-28,50
+54,102,4,"Poor quality, not satisfied - review 53",2026-07-04,38
+55,129,2,Excellent value for money - review 54,2026-10-15,73
+56,123,4,  Highly recommended!! #55 ,2026-05-18,38
+57,136,2,"Great product, worth the money - review 56",2026-09-18,4
+58,128,3,,2026-08-11,31
+59,125,5,Highly recommended!! - review 58,2026-09-27,71
+60,108,4,,2026-02-11,31
+61,124,5,  Battery life is amazing #60 ,2026-05-04,70
+62,106,5,Average product - review 61,2026-06-30,2
+63,115,4,Not as described - review 62,2026-03-20,50
+64,117,3,Not as described - review 63,2026-04-21,11
+65,122,5,"Great product, worth the money - review 64",2026-09-19,34
+66,108,2,"  Great product, worth the money #65 ",2026-09-21,43
+67,122,3,Stopped working after a week - review 66,2026-08-25,56
+68,112,4,Fast delivery and good packaging - review 67,2026-03-12,58
+69,136,2,"Great product, worth the money - review 68",2026-09-13,19
+70,139,2,Stopped working after a week - review 69,2026-01-27,55
+71,133,5,  Highly recommended!! #70 ,2026-04-28,53
+72,109,5,Excellent value for money - review 71,2026-01-29,1
+73,129,4,Excellent value for money - review 72,2026-03-27,55
+74,139,4,,2026-08-22,74
+75,136,3,Fast delivery and good packaging - review 74,2026-03-14,43
+76,134,4,  Average product #75 ,2026-05-27,15
+77,102,4,Good but a bit expensive - review 76,2026-09-19,20
+78,106,5,"Great product, worth the money - review 77",2026-03-22,61
+79,130,1,Average product - review 78,2026-10-03,0
+80,112,5,Stopped working after a week - review 79,2026-06-22,13
+81,118,5,  Battery life is amazing #80 ,2026-04-21,15
+82,119,4,,2026-07-09,18
+83,130,5,Not as described - review 82,2026-09-20,66
+84,129,5,Stopped working after a week - review 83,2026-04-08,9
+85,111,5,Battery life is amazing - review 84,2026-04-25,16
+86,131,3,  Good but a bit expensive #85 ,2026-01-24,70
+87,118,4,Good but a bit expensive - review 86,2026-05-15,5
+88,123,5,"Great product, worth the money - review 87",2026-04-10,23
+89,132,2,Fast delivery and good packaging - review 88,2026-06-19,19
+90,111,4,Fast delivery and good packaging - review 89,2026-07-06,63
+91,101,1,  Good but a bit expensive #90 ,2026-03-08,41
+92,126,5,"Great product, worth the money - review 91",2026-04-12,12
+93,111,5,"Great product, worth the money - review 92",2026-03-22,46
+94,110,1,,2026-01-26,72
+95,119,5,Highly recommended!! - review 94,2026-03-21,70
+96,135,5,  Stopped working after a week #95 ,2026-07-24,74
+97,134,2,,2026-03-20,68
+98,129,4,"Great product, worth the money - review 97",2026-05-05,69
+99,110,5,Stopped working after a week - review 98,2026-06-04,77
+100,137,4,Excellent value for money - review 99,2026-01-03,48
+101,132,4,  Average product #100 ,2026-01-31,70
+102,101,5,Battery life is amazing - review 101,2026-01-15,25
+103,109,4,"Great product, worth the money - review 102",2026-08-23,36
+104,104,4,Fast delivery and good packaging - review 103,2026-03-30,26
+105,112,1,Fast delivery and good packaging - review 104,2026-02-22,11
+106,127,2,  Good but a bit expensive #105 ,2026-02-20,4
+107,122,5,"Poor quality, not satisfied - review 106",2026-05-14,76
+108,105,5,Not as described - review 107,2026-02-01,54
+109,126,5,Highly recommended!! - review 108,2026-07-12,18
+110,123,4,Stopped working after a week - review 109,2026-07-31,26
+111,135,4,  Fast delivery and good packaging #110 ,2026-02-11,49
+112,112,4,"Great product, worth the money - review 111",2026-10-23,10
+113,135,5,,2026-05-03,21
+114,126,4,Highly recommended!! - review 113,2026-09-08,7
+115,110,4,Battery life is amazing - review 114,2026-06-18,65
+116,112,4,  Highly recommended!! #115 ,2026-09-19,30
+117,129,5,,2026-06-15,16
+118,127,3,Fast delivery and good packaging - review 117,2026-04-06,15
+119,125,1,Good but a bit expensive - review 118,2026-09-25,33
+120,116,2,Excellent value for money - review 119,2026-09-27,55
+121,115,3,  Excellent value for money #120 ,2026-08-24,17
+122,122,5,Excellent value for money - review 121,2026-07-21,16
+123,131,5,Average product - review 122,2026-02-06,68
+124,110,5,Excellent value for money - review 123,2026-08-18,0
+125,135,4,Highly recommended!! - review 124,2026-09-07,49
+126,107,2,  Fast delivery and good packaging #125 ,2026-07-14,1
+127,119,4,Not as described - review 126,2026-06-14,50
+128,112,5,"Great product, worth the money - review 127",2026-07-17,21
+129,136,4,Fast delivery and good packaging - review 128,2026-07-23,25
+130,107,4,Battery life is amazing - review 129,2026-02-03,40
+131,105,4,"  Great product, worth the money #130 ",2026-02-17,14
+132,127,2,Not as described - review 131,2026-03-25,58
+133,106,4,Stopped working after a week - review 132,2026-05-22,68
+134,139,4,Highly recommended!! - review 133,2026-04-28,34
+135,130,4,"Poor quality, not satisfied - review 134",2026-07-29,61
+136,135,3,  Good but a bit expensive #135 ,2026-07-02,61
+137,112,5,"Great product, worth the money - review 136",2026-08-28,58
+138,129,3,Average product - review 137,2026-03-05,61
+139,123,4,Good but a bit expensive - review 138,2026-08-30,79
+140,116,3,,2026-03-08,18
+141,119,5,  Average product #140 ,2026-03-07,44
+142,100,4,Good but a bit expensive - review 141,2026-10-02,76
+143,105,4,Stopped working after a week - review 142,2026-09-07,14
+144,104,5,Battery life is amazing - review 143,2026-02-01,27
+145,130,5,"Poor quality, not satisfied - review 144",2026-06-20,48
+146,110,5,,2026-10-13,6
+147,129,4,Highly recommended!! - review 146,2026-07-20,22
+148,128,5,"Great product, worth the money - review 147",2026-06-17,24
+149,105,4,Excellent value for money - review 148,2026-09-13,41
+150,113,5,,2026-06-28,44
+151,110,5,"  Poor quality, not satisfied #150 ",2026-05-02,36
+152,104,5,Excellent value for money - review 151,2026-10-02,65
+153,132,5,Good but a bit expensive - review 152,2026-10-03,45
+154,114,4,,2026-10-05,59
+155,136,5,Good but a bit expensive - review 154,2026-09-22,73
+156,133,2,  Excellent value for money #155 ,2026-03-20,45
+157,134,5,Good but a bit expensive - review 156,2026-08-31,64
+158,129,5,Good but a bit expensive - review 157,2026-04-07,37
+159,120,2,Not as described - review 158,2026-04-24,33
+160,117,3,Stopped working after a week - review 159,2026-06-23,3
+161,114,4,  Excellent value for money #160 ,2026-06-08,65
+162,125,5,Stopped working after a week - review 161,2026-09-22,6
+163,117,2,Battery life is amazing - review 162,2026-02-21,68
+164,134,5,Excellent value for money - review 163,2026-06-29,12
+165,107,4,Average product - review 164,2026-08-16,61
+166,114,5,  Not as described #165 ,2026-05-12,78
+167,119,5,"Poor quality, not satisfied - review 166",2026-09-25,44
+168,111,4,Excellent value for money - review 167,2026-08-14,61
+169,109,4,Average product - review 168,2026-02-18,71
+170,122,2,Average product - review 169,2026-02-15,67
+171,106,2,"  Great product, worth the money #170 ",2026-08-12,39
+172,131,4,Highly recommended!! - review 171,2026-04-24,73
+173,115,5,"Great product, worth the money - review 172",2026-07-28,8
+174,130,5,Average product - review 173,2026-08-17,7
+175,102,4,Highly recommended!! - review 174,2026-01-11,21
+176,131,5,  Battery life is amazing #175 ,2026-07-31,79
+177,118,3,Battery life is amazing - review 176,2026-10-03,52
+178,134,5,Fast delivery and good packaging - review 177,2026-09-05,14
+179,127,5,Average product - review 178,2026-05-24,30
+180,132,2,Fast delivery and good packaging - review 179,2026-05-23,0
+181,126,5,  Highly recommended!! #180 ,2026-03-22,33
+182,104,5,Fast delivery and good packaging - review 181,2026-05-30,48
+183,139,5,,2026-01-10,32
+184,115,5,Good but a bit expensive - review 183,2026-02-27,40
+185,135,4,Average product - review 184,2026-08-23,15
+186,120,4,"  Great product, worth the money #185 ",2026-04-04,5
+187,125,4,Not as described - review 186,2026-04-12,7
+188,107,5,Highly recommended!! - review 187,2026-07-29,54
+189,135,5,Average product - review 188,2026-06-04,3
+190,131,2,Good but a bit expensive - review 189,2026-05-14,14
+191,117,5,  Good but a bit expensive #190 ,2026-02-28,53
+192,116,3,Stopped working after a week - review 191,2026-04-13,63
+193,131,3,Not as described - review 192,2026-07-02,25
+194,106,3,Excellent value for money - review 193,2026-07-04,39
+195,111,4,"Great product, worth the money - review 194",2026-04-30,36
+196,105,3,  Excellent value for money #195 ,2026-07-24,61
+197,121,3,Fast delivery and good packaging - review 196,2026-08-30,74
+198,114,2,Highly recommended!! - review 197,2026-01-28,66
+199,139,4,Battery life is amazing - review 198,2026-07-19,50
+200,135,5,Highly recommended!! - review 199,2026-08-04,59
+201,123,1,  Fast delivery and good packaging #200 ,2026-08-05,64
+202,130,4,Not as described - review 201,2026-03-27,68
+203,120,4,"Poor quality, not satisfied - review 202",2026-03-17,60
+204,117,1,Fast delivery and good packaging - review 203,2026-05-12,57
+205,131,3,Not as described - review 204,2026-01-20,76
+206,114,5,  Highly recommended!! #205 ,2026-04-02,29
+207,112,5,"Great product, worth the money - review 206",2026-09-21,5
+208,105,5,Stopped working after a week - review 207,2026-09-08,39
+209,133,2,"Poor quality, not satisfied - review 208",2026-10-08,30
+210,131,5,Not as described - review 209,2026-01-09,3
+211,100,4,,2026-07-13,75
+212,133,3,Highly recommended!! - review 211,2026-01-17,78
+213,109,4,Fast delivery and good packaging - review 212,2026-10-04,37
+214,135,5,Highly recommended!! - review 213,2026-06-05,58
+215,107,5,Fast delivery and good packaging - review 214,2026-07-31,75
+216,106,4,  Average product #215 ,2026-03-11,38
+217,110,1,Good but a bit expensive - review 216,2026-07-01,14
+218,137,5,Highly recommended!! - review 217,2026-09-11,9
+219,137,5,Highly recommended!! - review 218,2026-05-06,4
+220,126,4,"Poor quality, not satisfied - review 219",2026-08-26,5
+221,100,3,  Stopped working after a week #220 ,2026-04-17,71
+222,124,4,Excellent value for money - review 221,2026-03-09,56
+223,111,5,"Poor quality, not satisfied - review 222",2026-05-27,32
+224,129,4,Average product - review 223,2026-07-24,76
+225,122,4,Fast delivery and good packaging - review 224,2026-03-08,40
+226,135,3,  Good but a bit expensive #225 ,2026-06-06,30
+227,128,3,Good but a bit expensive - review 226,2026-05-09,74
+228,112,1,Excellent value for money - review 227,2026-09-15,57
+229,130,3,Highly recommended!! - review 228,2026-06-02,17
+230,109,5,Good but a bit expensive - review 229,2026-01-05,55
+231,115,1,"  Great product, worth the money #230 ",2026-01-10,77
+232,109,5,"Poor quality, not satisfied - review 231",2026-06-02,31
+233,108,5,Highly recommended!! - review 232,2026-04-29,31
+234,116,4,"Poor quality, not satisfied - review 233",2026-01-21,42
+235,134,4,Battery life is amazing - review 234,2026-03-27,19
+236,117,3,,2026-04-13,75
+237,104,5,Highly recommended!! - review 236,2026-07-10,18
+238,130,5,Stopped working after a week - review 237,2026-03-04,64
+239,102,5,Fast delivery and good packaging - review 238,2026-09-01,41
+240,122,4,,2026-07-26,52
+241,109,5,"  Poor quality, not satisfied #240 ",2026-07-04,37
+242,136,5,Not as described - review 241,2026-08-02,55
+243,119,4,"Great product, worth the money - review 242",2026-07-19,70
+244,116,5,"Poor quality, not satisfied - review 243",2026-01-30,44
+245,137,3,,2026-07-04,4
+246,118,5,  Battery life is amazing #245 ,2026-03-03,58
+247,129,4,Not as described - review 246,2026-03-18,3
+248,117,5,Highly recommended!! - review 247,2026-08-26,44
+249,122,3,Not as described - review 248,2026-04-23,12
+250,119,5,Average product - review 249,2026-08-24,65

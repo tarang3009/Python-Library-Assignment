@@ -1,0 +1,151 @@
+restaurant_id,name,city,cuisine,average_cost_for_two,user_rating,votes,has_online_delivery
+1,Mumbai Eatery 1,Mumbai,Cafe,829,3.4,800,No
+2,Mumbai Eatery 2,Mumbai,Chinese,2301,3.7,1564,Yes
+3,Mumbai Eatery 3,Mumbai,Biryani,1934,4.1,2366,Yes
+4,Mumbai Eatery 4,Mumbai,Street Food,1426,4.1,2452,Yes
+5,Mumbai Eatery 5,Mumbai,North Indian,985,4.6,4876,No
+6,Mumbai Eatery 6,Mumbai,Fast Food,2210,3.9,2006,Yes
+7,Mumbai Eatery 7,Mumbai,Italian,1385,3.4,2704,Yes
+8,Mumbai Eatery 8,Mumbai,Street Food,510,3.7,1272,No
+9,Mumbai Eatery 9,Mumbai,Chinese,2205,3.6,303,Yes
+10,Mumbai Eatery 10,Mumbai,South Indian,1277,3.5,1974,Yes
+11,Mumbai Eatery 11,Mumbai,South Indian,1340,4.2,2155,Yes
+12,Mumbai Eatery 12,Mumbai,South Indian,1201,3.7,879,Yes
+13,Mumbai Eatery 13,Mumbai,Biryani,1004,3.2,3308,Yes
+14,Mumbai Eatery 14,Mumbai,Biryani,1661,4.3,1666,Yes
+15,Mumbai Eatery 15,Mumbai,North Indian,1041,4.0,302,Yes
+16,Mumbai Eatery 16,Mumbai,Cafe,1469,4.1,2685,Yes
+17,Mumbai Eatery 17,Mumbai,Chinese,561,4.0,1278,No
+18,Mumbai Eatery 18,Mumbai,Chinese,2150,4.3,3643,No
+19,Mumbai Eatery 19,Mumbai,South Indian,860,4.0,111,Yes
+20,Mumbai Eatery 20,Mumbai,Biryani,1670,4.5,3848,Yes
+21,Mumbai Eatery 21,Mumbai,Fast Food,969,4.2,2709,Yes
+22,Mumbai Eatery 22,Mumbai,Fast Food,788,4.2,3657,Yes
+23,Mumbai Eatery 23,Mumbai,Street Food,763,4.2,1919,Yes
+24,Mumbai Eatery 24,Mumbai,South Indian,1883,3.4,4412,No
+25,Mumbai Eatery 25,Mumbai,South Indian,532,3.9,2528,Yes
+26,Mumbai Eatery 26,Mumbai,Street Food,2072,3.9,4987,Yes
+27,Mumbai Eatery 27,Mumbai,Chinese,1378,4.1,1493,Yes
+28,Mumbai Eatery 28,Mumbai,Biryani,1353,3.5,4285,Yes
+29,Mumbai Eatery 29,Mumbai,Italian,850,4.7,3290,No
+30,Mumbai Eatery 30,Mumbai,Fast Food,1149,4.0,4628,No
+31,Mumbai Eatery 31,Mumbai,Biryani,1951,3.5,881,Yes
+32,Mumbai Eatery 32,Mumbai,Cafe,2270,3.3,2576,No
+33,Mumbai Eatery 33,Mumbai,Cafe,2337,3.9,4535,No
+34,Mumbai Eatery 34,Mumbai,Cafe,1704,4.0,1237,Yes
+35,Mumbai Eatery 35,Mumbai,North Indian,973,3.7,4801,Yes
+36,Mumbai Eatery 36,Mumbai,South Indian,561,4.0,4837,No
+37,Mumbai Eatery 37,Mumbai,Cafe,1601,3.7,2475,Yes
+38,Mumbai Eatery 38,Mumbai,Italian,1559,4.2,3647,Yes
+39,Mumbai Eatery 39,Mumbai,Italian,1464,3.7,2337,No
+40,Mumbai Eatery 40,Mumbai,Biryani,1504,4.0,3293,Yes
+41,Mumbai Eatery 41,Mumbai,Cafe,557,4.4,4300,No
+42,Mumbai Eatery 42,Mumbai,Italian,1226,5.0,3709,Yes
+43,Mumbai Eatery 43,Mumbai,North Indian,662,3.6,1463,Yes
+44,Mumbai Eatery 44,Mumbai,South Indian,2195,3.8,2906,Yes
+45,Mumbai Eatery 45,Mumbai,Cafe,2258,3.7,4019,No
+46,Mumbai Eatery 46,Mumbai,Fast Food,2129,4.3,2916,Yes
+47,Mumbai Eatery 47,Mumbai,Chinese,1395,3.5,1450,Yes
+48,Mumbai Eatery 48,Mumbai,South Indian,2084,3.8,3764,Yes
+49,Mumbai Eatery 49,Mumbai,South Indian,2089,4.0,3605,No
+50,Mumbai Eatery 50,Mumbai,Fast Food,1131,3.6,3182,No
+51,Mumbai Eatery 51,Mumbai,Street Food,539,3.6,1683,Yes
+52,Mumbai Eatery 52,Mumbai,Chinese,2171,3.8,2822,No
+53,Mumbai Eatery 53,Mumbai,Fast Food,1649,3.2,3020,Yes
+54,Mumbai Eatery 54,Mumbai,South Indian,1341,3.4,1084,Yes
+55,Mumbai Eatery 55,Mumbai,Chinese,2217,3.8,4630,Yes
+56,Mumbai Eatery 56,Mumbai,South Indian,2396,4.1,2978,Yes
+57,Mumbai Eatery 57,Mumbai,Chinese,2220,3.9,290,Yes
+58,Mumbai Eatery 58,Mumbai,Chinese,426,3.3,1366,Yes
+59,Mumbai Eatery 59,Mumbai,Italian,412,3.8,4040,Yes
+60,Mumbai Eatery 60,Mumbai,Biryani,1426,4.3,3472,Yes
+61,Mumbai Eatery 61,Mumbai,North Indian,1495,4.2,2718,Yes
+62,Mumbai Eatery 62,Mumbai,Cafe,891,4.0,2481,No
+63,Mumbai Eatery 63,Mumbai,Chinese,1174,3.6,1907,No
+64,Mumbai Eatery 64,Mumbai,Biryani,1588,4.3,4712,Yes
+65,Mumbai Eatery 65,Mumbai,Chinese,1996,3.8,1764,Yes
+66,Mumbai Eatery 66,Mumbai,Fast Food,1989,3.5,4159,Yes
+67,Mumbai Eatery 67,Mumbai,South Indian,553,3.7,365,Yes
+68,Mumbai Eatery 68,Mumbai,Chinese,1204,4.6,2677,No
+69,Mumbai Eatery 69,Mumbai,Italian,956,4.1,1306,Yes
+70,Mumbai Eatery 70,Mumbai,South Indian,1007,4.5,2122,No
+71,Mumbai Eatery 71,Mumbai,Fast Food,2106,3.8,3123,Yes
+72,Mumbai Eatery 72,Mumbai,Street Food,1300,4.4,355,Yes
+73,Mumbai Eatery 73,Mumbai,Italian,1386,3.8,505,No
+74,Mumbai Eatery 74,Mumbai,South Indian,2455,3.9,2906,Yes
+75,Mumbai Eatery 75,Mumbai,North Indian,1351,5.0,3353,No
+76,Mumbai Eatery 76,Mumbai,Italian,1978,4.3,327,Yes
+77,Mumbai Eatery 77,Mumbai,Italian,2433,3.8,4812,Yes
+78,Mumbai Eatery 78,Mumbai,Cafe,2450,4.0,2200,No
+79,Mumbai Eatery 79,Mumbai,Cafe,1071,4.1,4904,Yes
+80,Mumbai Eatery 80,Mumbai,Cafe,1247,4.5,699,Yes
+81,Mumbai Eatery 81,Mumbai,Italian,487,3.8,4448,Yes
+82,Mumbai Eatery 82,Mumbai,Chinese,1971,3.3,3230,Yes
+83,Mumbai Eatery 83,Mumbai,South Indian,1223,3.9,4036,Yes
+84,Mumbai Eatery 84,Mumbai,South Indian,426,4.0,4044,No
+85,Mumbai Eatery 85,Mumbai,Cafe,722,4.0,906,No
+86,Mumbai Eatery 86,Mumbai,Cafe,773,4.5,856,Yes
+87,Mumbai Eatery 87,Mumbai,South Indian,571,4.1,4851,Yes
+88,Mumbai Eatery 88,Mumbai,Chinese,547,4.3,2174,No
+89,Mumbai Eatery 89,Mumbai,Biryani,1592,3.6,1029,Yes
+90,Mumbai Eatery 90,Mumbai,Fast Food,891,4.3,3161,No
+91,Mumbai Eatery 91,Mumbai,Biryani,2402,4.8,4347,Yes
+92,Mumbai Eatery 92,Mumbai,South Indian,1600,4.3,1383,No
+93,Mumbai Eatery 93,Mumbai,Italian,1616,4.1,4391,Yes
+94,Mumbai Eatery 94,Mumbai,North Indian,1500,4.1,340,No
+95,Mumbai Eatery 95,Mumbai,Street Food,1758,4.7,3117,No
+96,Mumbai Eatery 96,Mumbai,South Indian,2042,3.6,1890,No
+97,Mumbai Eatery 97,Mumbai,Italian,1079,4.0,2616,Yes
+98,Mumbai Eatery 98,Mumbai,South Indian,1688,4.2,3038,No
+99,Mumbai Eatery 99,Mumbai,Chinese,1599,4.3,1018,Yes
+100,Mumbai Eatery 100,Mumbai,Biryani,1840,3.8,266,Yes
+101,Mumbai Eatery 101,Mumbai,South Indian,1979,4.1,2606,Yes
+102,Mumbai Eatery 102,Mumbai,Italian,2004,3.9,4767,Yes
+103,Mumbai Eatery 103,Mumbai,Fast Food,1637,4.0,1467,Yes
+104,Mumbai Eatery 104,Mumbai,Cafe,549,3.9,2806,No
+105,Mumbai Eatery 105,Mumbai,Biryani,2085,3.5,646,Yes
+106,Mumbai Eatery 106,Mumbai,Street Food,2433,4.0,1734,Yes
+107,Mumbai Eatery 107,Mumbai,Chinese,1555,4.4,658,Yes
+108,Mumbai Eatery 108,Mumbai,South Indian,1323,3.6,580,No
+109,Mumbai Eatery 109,Mumbai,Street Food,816,3.9,4009,Yes
+110,Mumbai Eatery 110,Mumbai,Cafe,1363,4.3,4520,Yes
+111,Mumbai Eatery 111,Mumbai,South Indian,1623,3.6,4613,No
+112,Mumbai Eatery 112,Mumbai,Cafe,2027,4.1,3653,Yes
+113,Mumbai Eatery 113,Mumbai,Chinese,1430,3.6,726,Yes
+114,Mumbai Eatery 114,Mumbai,Italian,781,4.5,4629,Yes
+115,Mumbai Eatery 115,Mumbai,Biryani,748,4.9,86,Yes
+116,Mumbai Eatery 116,Mumbai,Chinese,1521,4.8,1363,No
+117,Mumbai Eatery 117,Mumbai,Street Food,1700,3.9,1332,Yes
+118,Mumbai Eatery 118,Mumbai,Chinese,2253,4.3,3725,Yes
+119,Mumbai Eatery 119,Mumbai,Chinese,2115,4.0,689,Yes
+120,Mumbai Eatery 120,Mumbai,Chinese,1616,4.0,4841,Yes
+121,Mumbai Eatery 121,Mumbai,Biryani,683,4.6,959,Yes
+122,Mumbai Eatery 122,Mumbai,Biryani,2134,3.5,4313,Yes
+123,Mumbai Eatery 123,Mumbai,North Indian,1544,4.4,2924,No
+124,Mumbai Eatery 124,Mumbai,Street Food,2170,4.0,1265,Yes
+125,Mumbai Eatery 125,Mumbai,North Indian,1940,4.6,2123,Yes
+126,Mumbai Eatery 126,Mumbai,Cafe,1064,4.1,591,Yes
+127,Mumbai Eatery 127,Mumbai,Italian,1246,3.7,2157,No
+128,Mumbai Eatery 128,Mumbai,North Indian,1265,4.1,3467,No
+129,Mumbai Eatery 129,Mumbai,Biryani,967,4.3,1043,Yes
+130,Mumbai Eatery 130,Mumbai,Biryani,2016,4.0,4812,No
+131,Mumbai Eatery 131,Mumbai,North Indian,1181,4.2,3329,Yes
+132,Mumbai Eatery 132,Mumbai,South Indian,1863,3.8,1851,No
+133,Mumbai Eatery 133,Mumbai,Biryani,1537,3.1,1461,Yes
+134,Mumbai Eatery 134,Mumbai,Italian,1258,4.4,3885,Yes
+135,Mumbai Eatery 135,Mumbai,Fast Food,1841,4.3,2007,No
+136,Mumbai Eatery 136,Mumbai,Cafe,766,4.1,4712,Yes
+137,Mumbai Eatery 137,Mumbai,North Indian,1574,4.0,2327,No
+138,Mumbai Eatery 138,Mumbai,South Indian,708,4.4,3507,Yes
+139,Mumbai Eatery 139,Mumbai,Fast Food,624,3.8,4524,Yes
+140,Mumbai Eatery 140,Mumbai,Biryani,2142,3.7,4752,Yes
+141,Mumbai Eatery 141,Mumbai,South Indian,2117,3.9,1246,No
+142,Mumbai Eatery 142,Mumbai,Cafe,1816,4.5,2176,Yes
+143,Mumbai Eatery 143,Mumbai,Fast Food,2340,3.4,3598,No
+144,Mumbai Eatery 144,Mumbai,South Indian,1673,4.5,2064,No
+145,Mumbai Eatery 145,Mumbai,Street Food,612,3.7,1560,Yes
+146,Mumbai Eatery 146,Mumbai,Cafe,1206,3.6,3106,Yes
+147,Mumbai Eatery 147,Mumbai,Street Food,923,4.5,4474,No
+148,Mumbai Eatery 148,Mumbai,Fast Food,1915,4.0,2336,Yes
+149,Mumbai Eatery 149,Mumbai,Biryani,764,3.5,1982,Yes
+150,Mumbai Eatery 150,Mumbai,Fast Food,1667,3.9,3814,Yes
